@@ -14,4 +14,4 @@ Sou estudante de Sistemas de Informação. Estudo na universidade federal de Ube
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosjry&show_icons=true&hide_border=true&theme=dark&locale=en&layout=compact" alt="marcosjry" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjry&layout=compact&bg_color=000&title_color=fff&text_color=FFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
