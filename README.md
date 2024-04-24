@@ -1,9 +1,17 @@
-<h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">An Enthusiast of Tech from Brazil</h3>
+<h1>Oi 👋, eu me chamo Marcos</h1>
+Sou estudante de Sistemas de Informação. Estudo na universidade federal de Uberlândia e tenho uma grande paixão por desenvolvimento e resolução de problemas usando códigos.
 
-<h3 align="center">Connect with me on</h3><p align="center">
-<a href="https://linkedin.com/in/marcosantoniosj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcosantoniosj" height="30" width="40" /></a>
-<a href="https://instagram.com/marcos_jry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcos_jry" height="30" width="40" /></a>
-</p>
+<h2>Connect with me on</h2>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosjry&show_icons=true&hide_border=true&theme=dark&locale=en&layout=compact" alt="marcosjry" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white&align="center")](https://www.linkedin.com/in/marcosantoniosj/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_jry/)
+
+## Atualmente Estudando
+
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosjry&show_icons=true&hide_border=true&theme=dark&locale=en&layout=compact" alt="marcosjry" />
