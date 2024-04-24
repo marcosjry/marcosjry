@@ -1,7 +1,7 @@
 <h1>Oi 👋, eu me chamo Marcos</h1>
 Sou estudante de Sistemas de Informação. Estudo na universidade federal de Uberlândia e tenho uma grande paixão por desenvolvimento e resolução de problemas usando códigos.
 
-<h2>Connect with me on</h2>
+<h2>Conect-se comigo em:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white&align="center")](https://www.linkedin.com/in/marcosantoniosj/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_jry/)
