@@ -1,4 +1,4 @@
-<h1>Oi 👋, eu me chamo Marcos</h1>
+<h1>Oi 👋</h1>
 Sou estudante de Sistemas de Informação. Estudo na universidade federal de Uberlândia e tenho uma grande paixão por desenvolvimento e resolução de problemas usando códigos.
 
 <h2>Conect-se comigo em:</h2>
