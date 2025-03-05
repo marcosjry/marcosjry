@@ -14,4 +14,5 @@ Sou estudante de Sistemas de Informação. Estudo na universidade federal de Ube
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjry&layout=compact&bg_color=000&title_color=fff&text_color=FFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjry&layout=compact&bg_color=000&title_color=fff&text_color=FFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Status github](https://github-readme-stats.vercel.app/api?username=marcosjry&show_icons=true&theme=rose_pine)
